@@ -36,8 +36,11 @@ section {
 }
 
 .hero--photo {
-    max-width: 800px;
+    width: 900px;
     align-self: center;
+    border-radius: 22px;
+    padding: 200px;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.428);
 }
 
 .hero--header {
